@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanchit-singhs
+## - 👋 Hi, I’m @Sanchit-singhs
 Hey there,
 I am pursuing B.Tech in Computer science engineering and also work as subject matter expert at chegg. By working while being a student gave me an opportunity to gain work experience at some early basis and polished my skills in Java web development and Html.
 as all of the work I get from chegg needs to be done in a thorough manner and should be precise to the point that made me an efficient programmer.
