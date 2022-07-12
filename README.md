@@ -1,4 +1,9 @@
-<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao, I'm Sanchit! </h1>
+<p align="center">
+  <a href="https://github.com/arthurspk/guiadevbrasil">
+    <img src="./images/guia.png" alt="Guia Extenso de Programaçãohttps://github.com/arthurspk/guiadevbrasil" width="160" height="160">
+  </a>
+</p>
+
 ## - 👋 Hi, I’m @Sanchit-singhs
 Hey there,
 I am pursuing B.Tech in Computer science engineering and also work as subject matter expert at chegg. By working while being a student gave me an opportunity to gain work experience at some early basis and polished my skills in Java web development and Html.
