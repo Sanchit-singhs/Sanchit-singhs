@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/arthurspk/guiadevbrasil">
-    <img src="./images/guia.png" alt="Guia Extenso de Programaçãohttps://github.com/arthurspk/guiadevbrasil" width="160" height="160">
-  </a>
-</p>
+<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao, I'm Sanchit! </h1>
 
 ## - 👋 Hi, I’m @Sanchit-singhs
 Hey there,
