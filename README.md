@@ -6,7 +6,7 @@ I am pursuing B.Tech in Computer science engineering and also work as subject ma
 as all of the work I get from chegg needs to be done in a thorough manner and should be precise to the point that made me an efficient programmer.
 Thank you for Visiting my profile.
 Have a nice day
-(https://raw.githubusercontent.com/almazkun/almazkun/snake/.github/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/almazkun/almazkun/snake/.github/github-contribution-grid-snake.svg
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
